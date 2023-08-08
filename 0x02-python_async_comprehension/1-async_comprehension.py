@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Async Comprehensions 
+'''Task 1's module.
 '''
 from typing import List
 from importlib import import_module as using
